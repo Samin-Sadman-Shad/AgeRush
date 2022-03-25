@@ -1,0 +1,25 @@
+1) add level progression and data saving
+2) add character and animation
+
+rest of the work
+1) fit the hand giving animation time or try other animation
+2) include animation transition
+3) camera work
+4) particle systems
+5) player and character will shake hands and turn into one player
+   ai will be vanished
+   there will be some particle/ smoky effects
+   player shape or color or model may change
+   player resume to walk
+
+what to do --->
+
+1) Find a good shaking hand animation
+2) The animation speed is varied (done)
+3) create a particle effect when touching an ai (checking) ---> faster effect
+* the particle effect will be at player, cover both player and ai
+* both the player and ai will disappear, the player will re appear again
+4) create a slider indicating the state of the player (done)
+
+* particle effects to add
+* pickables have to be added
